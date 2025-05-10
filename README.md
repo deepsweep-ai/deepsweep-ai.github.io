@@ -77,5 +77,5 @@ Follow our progress and join the mission to secure the cognitive frontier.
 
 - Website: [https://deepsweep.ai](https://deepsweep.ai)
 - LinkedIn: [https://www.linkedin.com/company/deepsweepai/](https://www.linkedin.com/company/deepsweepai/)
-- View the Code on GitHub: [https://github.com/deepsweep-ai/cognitive-security-platform/](https://github.com/deepsweep-ai/cognitive-security-platform/)
+- GitHub: [https://github.com/deepsweep-ai/cognitive-security-platform/](https://github.com/deepsweep-ai/cognitive-security-platform/)
 - GitHub Discussions: Coming Soon
